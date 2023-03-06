@@ -1,4 +1,4 @@
-package com.example.krono
+package com.krono.vault
 
 import io.flutter.embedding.android.FlutterActivity
 

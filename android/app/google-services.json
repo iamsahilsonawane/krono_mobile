@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "39097162016",
+    "project_id": "krono-3c039",
+    "storage_bucket": "krono-3c039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39097162016:android:2b446c2d85909dda559f45",
+        "android_client_info": {
+          "package_name": "com.example.krono"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39097162016-uq0402juur4c3kgmdqpgt64057quahd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6QmU9ziqulAE8swWq4XeC12oMjeEHrMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39097162016-uq0402juur4c3kgmdqpgt64057quahd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39097162016-0apub2qh0tdrjbf0ahbueufd4murbbpb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.krono"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39097162016:android:bb3ca365e783e40c559f45",
+        "android_client_info": {
+          "package_name": "com.krono.vault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39097162016-uq0402juur4c3kgmdqpgt64057quahd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6QmU9ziqulAE8swWq4XeC12oMjeEHrMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39097162016-uq0402juur4c3kgmdqpgt64057quahd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39097162016-0apub2qh0tdrjbf0ahbueufd4murbbpb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.krono"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
